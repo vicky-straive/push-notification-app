@@ -1,8 +1,9 @@
 function Contact() {
   return (
     <div className="p-10">
+      {/* eslint-disable-next-line react/no-unescaped-entities */}
       <h1 className="text-4xl mb-4 font-bold">
-        Woohoo! You're on the Contact page!
+        Woohoo! You&apos;re on the Contact page!
       </h1>
 
       <h2>
